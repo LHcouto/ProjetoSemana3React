@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { paletas } from "../mocks/paletas.js";
+import { paletas } from "mocks/paletas.js";
 import './PaletaLista.css';
 
 function PaletaLista() {
