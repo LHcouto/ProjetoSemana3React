@@ -16,4 +16,4 @@ function Modal({children, closeModal}){
     );
 }
 
-export default Overlay;
+export default Modal;
